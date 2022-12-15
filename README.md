@@ -1,6 +1,6 @@
 # Most Cited AI/ML Papers
 
-## Awesome list criteria
+## Criteria
 
 A list of **top 100 AI/ML papers** published from 2012 to 2018.
 
